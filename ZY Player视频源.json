@@ -1,1 +1,443 @@
-[{"key":"99C95B06CD4A53B183DC1474737445D0","name":"萌果资源","api":"http:\/\/api.appearoo.top\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"ABC8A727614DFE8928994CF175650D41","name":"明日资源","api":"http:\/\/zy.zcocc.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"05DD7E0B492E33CAF2F076F7AFC963A4","name":"1186资源","api":"http:\/\/cj.1886zy.co\/inc\/api.php","useInSearchAll":true},{"key":"2BD7CC8A433A1A43BD5969AFB7C65AFC","name":"8090资源","api":"http:\/\/zy.yilans.net:8090\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"D8FD9789070176E39E520EC4370DF79B","name":"橘猫影视","api":"http:\/\/www.zitv.cc\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"88BDAF157854F158229B1F98BA3E01FD","name":"乐活影视","api":"https:\/\/lehootv.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"D3F47B7DAC8B7C40684E96E05C89AF0E","name":"西门影视","api":"https:\/\/ximenys.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"1C4F9C4FBBD9C0D12ABB98A106C2B628","name":"爱看影视","api":"http:\/\/tvcms.ikan6.vip\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"9E35C0FADB116A102621725DC6680BC0","name":"小蜻蜓影视","api":"http:\/\/3ketv.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"6482E2909BCF1A6468D6E98502F782A5","name":"蓝果影视","api":"http:\/\/www.languotv.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"30875F5B0CC9C8EDD9D28878E4B5699C","name":"播放呀","api":"https:\/\/www.bofangya.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"FCABF2B2407C4D9651F32F33270C82B5","name":"红牛资源","api":"http:\/\/www.hongniuzy.com\/inc\/api.php","useInSearchAll":true},{"key":"AC2829D49BA1A5E4D57D258FBC25DD4B","name":"M3U8.TV资源","api":"http:\/\/www.zycaiji.net:7788\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"481F60335AB6D58D161F06AE1BCFE01C","name":"侦探APP","api":"http:\/\/ys.huangguay.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"66EC61ABA7EC720200E174B80747A24F","name":"淘影","api":"http:\/\/tv.4kvod.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"3FF1AF94E5E28C6A9A22BBE1E70EB3E2","name":"快播资源","api":"http:\/\/www.kuaibozy.com\/api.php\/provide\/vod\/from\/kbm3u8\/at\/xml","useInSearchAll":true},{"key":"21BE6A2E950DD9146E98E67E7777435D","name":"88 影视资源站","api":"http:\/\/www.88zyw.net\/inc\/api.php","useInSearchAll":true},{"key":"0A2A363CC8B0F120D42345A9E9EBC2EB","name":"八戒资源","api":"http:\/\/cj.bajiecaiji.com\/inc\/api.php","useInSearchAll":true},{"key":"2AA0D56AF6EECD7160F95CB3AABD6AE6","name":"百度资源1","api":"https:\/\/api.apibdzy.com\/api.php\/Seacms\/vod\/","useInSearchAll":true},{"key":"9840ABFF19CC669F2D4BBF6D35626797","name":"老鸭资源","api":"https:\/\/api.apilyzy.com\/api.php\/Seacms\/vod\/","useInSearchAll":true},{"key":"84E227A184AD3D3AA9587466EB6B599F","name":"百度资源2","api":"https:\/\/cj.apibdzy.com\/inc\/api.php","useInSearchAll":true},{"key":"9211CF62A583D7EBBCC4CFA97A8C8C48","name":"花椒资源","api":"https:\/\/apihjzy.com\/api.php\/Seacms\/vod\/","useInSearchAll":true},{"key":"A80AEE5D3BEF2857FD03E79F3CE1B1C9","name":"最快资源","api":"http:\/\/cj.1886zy.co\/inc\/seacmsapi.php","useInSearchAll":true},{"key":"0FB41FB304CEB22A814210E61658F3B0","name":"6U资源","api":"http:\/\/zy.ataoju.com\/inc\/api.php","useInSearchAll":true},{"key":"709D60F5DA8FC1BF66CB4A8BFE0D4A7A","name":"605资源","api":"http:\/\/www.605zy.co\/inc\/api.php","useInSearchAll":true},{"key":"39500CBF225CD757317EF73EBE07D44F","name":"快播云","api":"http:\/\/www.kuaibozy.com\/api.php\/provide\/vod\/from\/kbm3u8\/at\/xml\/","useInSearchAll":true},{"key":"89735BFD754F6645D6F186D7CEE641FE","name":"八戒云","api":"http:\/\/cj.bajiecaiji.com\/inc\/bjm3u8.php","useInSearchAll":true},{"key":"BEA6EDB2074CDDF0F4B8EF67AFB2F021","name":"人人资源","api":"https:\/\/www.rrzyw.cc\/api.php\/provide\/vod\/from\/rrm3u8\/at\/xml\/","useInSearchAll":true},{"key":"6812DFA1CC405A65B544F1891640C851","name":"BT天堂","api":"http:\/\/bttcj.com\/inc\/sapi.php","useInSearchAll":true},{"key":"9AA2F6CE08CCD221DD4E8E847ACD279D","name":"安逸影院","api":"http:\/\/dy.51isu.com:11801\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"45322E2098D99B4A227AF15663BD0E55","name":"39影视","api":"https:\/\/www.39kan.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"DDE44055F5D3A133FD28598D5FAE9CB5","name":"苍天","api":"http:\/\/cj.cangtiancj.com\/api.php\/Seacms\/vod\/","useInSearchAll":true},{"key":"7DFCD48DCFBCF60D3725F21CC15E6986","name":"乐播","api":"https:\/\/lbapi9.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"FBD7939D674997CDB4692D34DE8633C4","name":"76","api":"http:\/\/m.7777688.com\/inc\/api.php","useInSearchAll":true},{"key":"69AF1A913392CAEB456C95AEAEEF24BD","name":"shayu","api":"https:\/\/shayuapi.com\/api.php\/Seacms\/vod\/","useInSearchAll":true},{"key":"1D161CC8659D3071F9CCCFE25E323903","name":"大地","api":"https:\/\/dadiapi.com\/api.php","useInSearchAll":true},{"key":"8D31C1FC6E6BE5927EB592B4C428ECA7","name":"环亚资源","api":"http:\/\/wmcj8.com\/inc\/sapi.php","useInSearchAll":true},{"key":"1F90455C5EB1EB622B0A2638D7FFAFD6","name":"佳丽","api":"https:\/\/jialiapi.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"F40668EAA59CB36C19BA3E5DF22ED463","name":"优果资源站","api":"https:\/\/www.ugvapi.com\/inc\/zyapimac.php","useInSearchAll":true},{"key":"90AB41B1BB382472485A436787F5C575","name":"火星2048","api":"https:\/\/www.hx2048.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"846FCDBBED4A1712B438209CDA399C1D","name":"韩剧网","api":"http:\/\/www.hanjuzy.com\/inc\/api.php","useInSearchAll":true},{"key":"558C0E0E6687A12734439E508B8265C0","name":"KK看剧","api":"http:\/\/www.kkkanju.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"1D178A4648DB8DB26CA353A6FCB46637","name":"BL视频","api":"https:\/\/bljiex.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"9702C1FFE42FB005985CC37B735075D8","name":"淘片资源","api":"https:\/\/taopianzy.com\/home\/cjapi\/c4ca4238a0b923820dcc509a6f75849b\/vod\/xml","useInSearchAll":true},{"key":"D16BF471A13CD8D2769012209DB998CD","name":"游艺资源","api":"http:\/\/360.hexh.ink\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"827BB95AD9E4B2C842C71E1E08035B64","name":"片库网","api":"https:\/\/pianku.wang\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"4B86F172D070271522D475FCDF17B7E3","name":"2A资源","api":"https:\/\/zy.zcocc.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"1364B1580FA88AD6823DE3F3BB2DB8CC","name":"天空资源","api":"http:\/\/api.tiankongapi.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"639C238028CA7A3D2D6EFD459F1B170C","name":"柚子","api":"http:\/\/tv.aitesucai.xyz\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"7B1237EB80392DACE89565E0A6E981C8","name":"真不卡资源","api":"http:\/\/db.taijuwang.cc\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"21BFD6565F987CF35BA24EA1F8B8EE6F","name":"不开门","api":"http:\/\/c.bukai.men\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"ABFB327449A467EB3BAA3EB1A8BBA6A2","name":"明日资源（解析）","api":"http:\/\/zy.zcocc.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"DF33B14BBCCA69A5DEAE83BAA76D7EE2","name":"爪可可","api":"https:\/\/www.zwcoco.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"8E26EF4FF9ED0A7EAF5444E2FFC399B3","name":"白熊影院（无）","api":"https:\/\/www.bxyy5.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"9213BD715BFDEA29150DC7A3950EEAFB","name":"蓝果APP","api":"http:\/\/www.languotv.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"A66E384C024262C231C5D9E81EE23B27","name":"小蜻蜓APP","api":"http:\/\/3ketv.com\/api.php\n\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"6497D749358E281F0649EE9FEE9C2E2A","name":"速影TV","api":"https:\/\/xn--128-zm3fr26s.xyz\/inc\/api.php","useInSearchAll":true},{"key":"CAC26154919DEAE48A3D61485D95BCA3","name":"追剧吧","api":"http:\/\/www.huaxiab.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"0B87CE595E9765136FDD78AC812DF8E4","name":"番茄解析","api":"http:\/\/api.fqzy.cc\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"0B5B3BB756D0F4F9A8286A5026D01D49","name":"胖猫（无播放）","api":"https:\/\/www.pangmaotv.com\/api.php\/provide\/vod\/at\/xml\/","useInSearchAll":true},{"key":"E13D99E2850F3A49812A886234555CA8","name":"影视聚合采集","api":"http:\/\/zy.vodcdn.top\/api\n.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"D7846479ABEDA364ABF7F87934CBB2B8","name":"奇乐资源","api":"https:\/\/zy.ujuba.com\/api\n.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"5508D27AB4B72132D43D50C807F25F31","name":"竹嘎资源","api":"http:\/\/m.ycccyk.cn\/api\n.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"8C5C04F8A95F9EB7F15D69B38FF4859B","name":"YT影视","api":"http:\/\/ytys.cc\/api.php\n\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"C702FB9935E4F2E6E9CAE1EE0E5C1A3D","name":"椰子资源","api":"https:\/\/zy.gbxy.net.cn\/api\n.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"84DBC6757B6E7EB5B92901082A589330","name":"飞鱼影视","api":"https:\/\/app.feiyu5.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"6237A22F195BE90A64075330F5191C57","name":"樱花资源","api":"https:\/\/m3u8.apiyhzy.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"85F7121F80F641D9273ED01924EDEFA6","name":"千寻时光","api":"http:\/\/wy.dqyhg.cn\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"0B491D0B2E4AC148FBA2F0C5520AFDC2","name":"快看客栈","api":"https:\/\/www.vp1127.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"57801B0082DA0AB8317F85BD80CFBCF6","name":"嘀哩嘀哩","api":"http:\/\/api.diliktv.xyz\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"A060AF5E60E0BA9904F9325F5C92A1E4","name":"蜂鸟视频","api":"https:\/\/v.fnsp0.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"4EB4EE27C0317F74CDCD1122FF1885D4","name":"555电影","api":"http:\/\/w7tv.com\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true},{"key":"EB534CB500A9DB1827BC65647194D65A","name":"5060影院","api":"https:\/\/app.linzhiyuan.xyz\/api.php\/provide\/vod\/at\/xml","useInSearchAll":true}]
+[
+	{
+		"key": "99C95B06CD4A53B183DC1474737445D0",
+		"name": "萌果资源",
+		"api": "http:\/\/api.appearoo.top\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "ABC8A727614DFE8928994CF175650D41",
+		"name": "明日资源",
+		"api": "http:\/\/zy.zcocc.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "05DD7E0B492E33CAF2F076F7AFC963A4",
+		"name": "1186资源",
+		"api": "http:\/\/cj.1886zy.co\/inc\/api.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "2BD7CC8A433A1A43BD5969AFB7C65AFC",
+		"name": "8090资源",
+		"api": "http:\/\/zy.yilans.net:8090\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "D8FD9789070176E39E520EC4370DF79B",
+		"name": "橘猫影视",
+		"api": "http:\/\/www.zitv.cc\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "88BDAF157854F158229B1F98BA3E01FD",
+		"name": "乐活影视",
+		"api": "https:\/\/lehootv.com\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "D3F47B7DAC8B7C40684E96E05C89AF0E",
+		"name": "西门影视",
+		"api": "https:\/\/ximenys.com\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "1C4F9C4FBBD9C0D12ABB98A106C2B628",
+		"name": "爱看影视",
+		"api": "http:\/\/tvcms.ikan6.vip\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "9E35C0FADB116A102621725DC6680BC0",
+		"name": "小蜻蜓影视",
+		"api": "http:\/\/3ketv.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "6482E2909BCF1A6468D6E98502F782A5",
+		"name": "蓝果影视",
+		"api": "http:\/\/www.languotv.com\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "30875F5B0CC9C8EDD9D28878E4B5699C",
+		"name": "播放呀",
+		"api": "https:\/\/www.bofangya.com\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "FCABF2B2407C4D9651F32F33270C82B5",
+		"name": "红牛资源",
+		"api": "http:\/\/www.hongniuzy.com\/inc\/api.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "AC2829D49BA1A5E4D57D258FBC25DD4B",
+		"name": "M3U8.TV资源",
+		"api": "http:\/\/www.zycaiji.net:7788\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "481F60335AB6D58D161F06AE1BCFE01C",
+		"name": "侦探APP",
+		"api": "http:\/\/ys.huangguay.com\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "66EC61ABA7EC720200E174B80747A24F",
+		"name": "淘影",
+		"api": "http:\/\/tv.4kvod.com\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "3FF1AF94E5E28C6A9A22BBE1E70EB3E2",
+		"name": "快播资源",
+		"api": "http:\/\/www.kuaibozy.com\/api.php\/provide\/vod\/from\/kbm3u8\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "21BE6A2E950DD9146E98E67E7777435D",
+		"name": "88 影视资源站",
+		"api": "http:\/\/www.88zyw.net\/inc\/api.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "0A2A363CC8B0F120D42345A9E9EBC2EB",
+		"name": "八戒资源",
+		"api": "http:\/\/cj.bajiecaiji.com\/inc\/api.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "2AA0D56AF6EECD7160F95CB3AABD6AE6",
+		"name": "百度资源1",
+		"api": "https:\/\/api.apibdzy.com\/api.php\/Seacms\/vod\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "9840ABFF19CC669F2D4BBF6D35626797",
+		"name": "老鸭资源",
+		"api": "https:\/\/api.apilyzy.com\/api.php\/Seacms\/vod\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "84E227A184AD3D3AA9587466EB6B599F",
+		"name": "百度资源2",
+		"api": "https:\/\/cj.apibdzy.com\/inc\/api.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "9211CF62A583D7EBBCC4CFA97A8C8C48",
+		"name": "花椒资源",
+		"api": "https:\/\/apihjzy.com\/api.php\/Seacms\/vod\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "A80AEE5D3BEF2857FD03E79F3CE1B1C9",
+		"name": "最快资源",
+		"api": "http:\/\/cj.1886zy.co\/inc\/seacmsapi.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "0FB41FB304CEB22A814210E61658F3B0",
+		"name": "6U资源",
+		"api": "http:\/\/zy.ataoju.com\/inc\/api.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "709D60F5DA8FC1BF66CB4A8BFE0D4A7A",
+		"name": "605资源",
+		"api": "http:\/\/www.605zy.co\/inc\/api.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "39500CBF225CD757317EF73EBE07D44F",
+		"name": "快播云",
+		"api": "http:\/\/www.kuaibozy.com\/api.php\/provide\/vod\/from\/kbm3u8\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "89735BFD754F6645D6F186D7CEE641FE",
+		"name": "八戒云",
+		"api": "http:\/\/cj.bajiecaiji.com\/inc\/bjm3u8.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "BEA6EDB2074CDDF0F4B8EF67AFB2F021",
+		"name": "人
+	}
+]
+人资源",
+		"api": "https:\/\/www.rrzyw.cc\/api.php\/provide\/vod\/from\/rrm3u8\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "6812DFA1CC405A65B544F1891640C851",
+		"name": "BT天堂",
+		"api": "http:\/\/bttcj.com\/inc\/sapi.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "9AA2F6CE08CCD221DD4E8E847ACD279D",
+		"name": "安逸影院",
+		"api": "http:\/\/dy.51isu.com:11801\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "45322E2098D99B4A227AF15663BD0E55",
+		"name": "39影视",
+		"api": "https:\/\/www.39kan.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "DDE44055F5D3A133FD28598D5FAE9CB5",
+		"name": "苍天",
+		"api": "http:\/\/cj.cangtiancj.com\/api.php\/Seacms\/vod\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "7DFCD48DCFBCF60D3725F21CC15E6986",
+		"name": "乐播",
+		"api": "https:\/\/lbapi9.com\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "FBD7939D674997CDB4692D34DE8633C4",
+		"name": "76",
+		"api": "http:\/\/m.7777688.com\/inc\/api.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "69AF1A913392CAEB456C95AEAEEF24BD",
+		"name": "shayu",
+		"api": "https:\/\/shayuapi.com\/api.php\/Seacms\/vod\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "1D161CC8659D3071F9CCCFE25E323903",
+		"name": "大地",
+		"api": "https:\/\/dadiapi.com\/api.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "8D31C1FC6E6BE5927EB592B4C428ECA7",
+		"name": "环亚资源",
+		"api": "http:\/\/wmcj8.com\/inc\/sapi.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "1F90455C5EB1EB622B0A2638D7FFAFD6",
+		"name": "佳丽",
+		"api": "https:\/\/jialiapi.com\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "F40668EAA59CB36C19BA3E5DF22ED463",
+		"name": "优果资源站",
+		"api": "https:\/\/www.ugvapi.com\/inc\/zyapimac.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "90AB41B1BB382472485A436787F5C575",
+		"name": "火星2048",
+		"api": "https:\/\/www.hx2048.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "846FCDBBED4A1712B438209CDA399C1D",
+		"name": "韩剧网",
+		"api": "http:\/\/www.hanjuzy.com\/inc\/api.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "558C0E0E6687A12734439E508B8265C0",
+		"name": "KK看剧",
+		"api": "http:\/\/www.kkkanju.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "1D178A4648DB8DB26CA353A6FCB46637",
+		"name": "BL视频",
+		"api": "https:\/\/bljiex.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "9702C1FFE42FB005985CC37B735075D8",
+		"name": "淘片资源",
+		"api": "https:\/\/taopianzy.com\/home\/cjapi\/c4ca4238a0b923820dcc509a6f75849b\/vod\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "D16BF471A13CD8D2769012209DB998CD",
+		"name": "游艺资源",
+		"api": "http:\/\/360.hexh.ink\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "827BB95AD9E4B2C842C71E1E08035B64",
+		"name": "片库网",
+		"api": "https:\/\/pianku.wang\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "4B86F172D070271522D475FCDF17B7E3",
+		"name": "2A资源",
+		"api": "https:\/\/zy.zcocc.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "1364B1580FA88AD6823DE3F3BB2DB8CC",
+		"name": "天空资源",
+		"api": "http:\/\/api.tiankongapi.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "639C238028CA7A3D2D6EFD459F1B170C",
+		"name": "柚子",
+		"api": "http:\/\/tv.aitesucai.xyz\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "7B1237EB80392DACE89565E0A6E981C8",
+		"name": "真不卡资源",
+		"api": "http:\/\/db.taijuwang.cc\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "21BFD6565F987CF35BA24EA1F8B8EE6F",
+		"name": "不开门",
+		"api": "http:\/\/c.bukai.men\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "ABFB327449A467EB3BAA3EB1A8BBA6A2",
+		"name": "明日资源（解析）",
+		"api": "http:\/\/zy.zcocc.com\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "DF33B14BBCCA69A5DEAE83BAA76D7EE2",
+		"name": "爪可可",
+		"api": "https:\/\/www.zwcoco.com\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "8E26EF4FF9ED0A7EAF5444E2FFC399B3",
+		"name": "白熊影院（无）",
+		"api": "https:\/\/www.bxyy5.com\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "9213BD715BFDEA29150DC7A3950EEAFB",
+		"name": "蓝果APP",
+		"api": "http:\/\/www.languotv.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "A66E384C024262C231C5D9E81EE23B27",
+		"name": "小蜻蜓APP",
+		"api": "http:\/\/3ketv.com\/api.php\n\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "6497D749358E281F0649EE9FEE9C2E2A",
+		"name": "速影TV",
+		"api": "https:\/\/xn--128-zm3fr26s.xyz\/inc\/api.php",
+		"useInSearchAll": true
+	},
+	{
+		"key": "CAC26154919DEAE48A3D61485D95BCA3",
+		"name": "追剧吧",
+		"api": "http:\/\/www.huaxiab.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "0B87CE595E9765136FDD78AC812DF8E4",
+		"name": "番茄解析",
+		"api": "http:\/\/api.fqzy.cc\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "0B5B3BB756D0F4F9A8286A5026D01D49",
+		"name": "胖猫（无播放）",
+		"api": "https:\/\/www.pangmaotv.com\/api.php\/provide\/vod\/at\/xml\/",
+		"useInSearchAll": true
+	},
+	{
+		"key": "E13D99E2850F3A49812A886234555CA8",
+		"name": "影视聚合采集",
+		"api": "http:\/\/zy.vodcdn.top\/api\n.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "D7846479ABEDA364ABF7F87934CBB2B8",
+		"name": "奇乐资源",
+		"api": "https:\/\/zy.ujuba.com\/api\n.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "5508D27AB4B72132D43D50C807F25F31",
+		"name": "竹嘎资源",
+		"api": "http:\/\/m.ycccyk.cn\/api\n.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "8C5C04F8A95F9EB7F15D69B38FF4859B",
+		"name": "YT影视",
+		"api": "http:\/\/ytys.cc\/api.php\n\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "C702FB9935E4F2E6E9CAE1EE0E5C1A3D",
+		"name": "椰子资源",
+		"api": "https:\/\/zy.gbxy.net.cn\/api\n.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "84DBC6757B6E7EB5B92901082A589330",
+		"name": "飞鱼影视",
+		"api": "https:\/\/app.feiyu5.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "6237A22F195BE90A64075330F5191C57",
+		"name": "樱花资源",
+		"api": "https:\/\/m3u8.apiyhzy.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "85F7121F80F641D9273ED01924EDEFA6",
+		"name": "千寻时光",
+		"api": "http:\/\/wy.dqyhg.cn\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "0B491D0B2E4AC148FBA2F0C5520AFDC2",
+		"name": "快看客栈",
+		"api": "https:\/\/www.vp1127.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "57801B0082DA0AB8317F85BD80CFBCF6",
+		"name": "嘀哩嘀哩",
+		"api": "http:\/\/api.diliktv.xyz\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "A060AF5E60E0BA9904F9325F5C92A1E4",
+		"name": "蜂鸟视频",
+		"api": "https:\/\/v.fnsp0.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "4EB4EE27C0317F74CDCD1122FF1885D4",
+		"name": "555电影",
+		"api": "http:\/\/w7tv.com\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	},
+	{
+		"key": "EB534CB500A9DB1827BC65647194D65A",
+		"name": "5060影院",
+		"api": "https:\/\/app.linzhiyuan.xyz\/api.php\/provide\/vod\/at\/xml",
+		"useInSearchAll": true
+	}
+]
