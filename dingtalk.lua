@@ -92,7 +92,7 @@ function wa_lua_on_write_cb(ctx, buf)
 
             buf = method .. sub(rest, 0, e) .. 
             --'X-Online-Host:\t\t ' .. host ..'\r\n' ..
-            '\tHost: a.189.cn:80\r\n'..
+            '\tHost: tms.dingtalk.com:80\r\n'..
             'X-T5-Auth: YTY0Nzlk\r\n' ..
             sub(rest, e + 1)
             
