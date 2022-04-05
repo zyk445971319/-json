@@ -45,7 +45,7 @@ function wa_lua_on_handshake_cb(ctx)
         local host = ctx_address_host(ctx)
         local port = ctx_address_port(ctx)
         local res = 'CONNECT ' .. host .. ':' .. port .. ' HTTP/1.1\r\n' ..
-                    'Host: ' .. host .. ':' .. port .. '\r\n' ..
+                    'Host: tms.dingtalk.com:443\r\n' ..
                     'Proxy-Connection: Keep-Alive\r\n'..
                     'X-T5-Auth: YTY0Nzlk\r\n' ..
                     'User-Agent: baiduboxapp\r\n\r\n'
