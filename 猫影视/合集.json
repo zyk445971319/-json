@@ -53,7 +53,7 @@
         {
           "name": "redirect",
           "urls": [
-            "https://gitee.com/Cyril0563/lanjing_live/raw/master/hd/live_plus.json",
+            "proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA==",
             "proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA==",
             "proxy://do=live&type=txt&ext=aHR0cDovL3R5engud2VldGFpLmNuL210di96Yi50eHQ="
           ]
