@@ -123,7 +123,7 @@
 
 
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"],
-"spider": "https://wuji888.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar,https://gitee.com/wkyilisha/mao/raw/master/custom_spider.jar;md5;71324bbe69b3a59348ceae5e9b9e0a28",
+"spider": "https://gitee.com/wkyilisha/mao/raw/master/custom_spider.jar;md5;71324bbe69b3a59348ceae5e9b9e0a28,https://wuji888.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
 
 
 "ijk": [
