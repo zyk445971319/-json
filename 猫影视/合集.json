@@ -53,6 +53,7 @@
         {
           "name": "redirect",
           "urls": [
+            "https://gitee.com/Cyril0563/lanjing_live/raw/master/hd/live_plus.json",
             "proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA==",
             "proxy://do=live&type=txt&ext=aHR0cDovL3R5engud2VldGFpLmNuL210di96Yi50eHQ="
           ]
@@ -61,6 +62,7 @@
     }
   ],
 
+ 
 
 "parses": [
 {"name": "解析01","type": 1,"url": "https://vip.parwix.com:4433/player/?url="},
